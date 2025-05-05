@@ -1,5 +1,5 @@
 square <- function(x) {
-  res82 <- x + x
+  res82 <- x * x
   return(res82) 
 }
 
